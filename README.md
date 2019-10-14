@@ -4,6 +4,6 @@
 
 A simple functional calculator.
 
-<img src="https://image.prntscr.com/image/8Ns8KV21TYucKSTqBVOV0Q.png">
+<img src="https://image.prntscr.com/image/3nRJqLxxQVOoyrUHWF9gew.png">
 
 By Alan T. Araki
